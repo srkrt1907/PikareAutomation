@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/SkyWind/Desktop/SMSTanimlama.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/SMautomation/SMSCTanim.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/SMautomation/ChangeID.txt"/>
+        <file path="/SMautomation/SM.feature"/>
+        <file path="/SMautomation/pom.xml"/>
+        <javaElement handleIdentifier="=SMautomation/src\/test\/java"/>
+        <folder path="/SMautomation/null"/>
+        <folder path="/SMautomation/dependency"/>
+        <javaElement handleIdentifier="=SMautomation/src\/main\/java"/>
+        <folder path="/SMautomation/src"/>
+        <file path="/SMautomation/pathfile.txt"/>
+        <file path="/SMautomation/.classpath"/>
+        <folder path="/SMautomation/target"/>
+        <file path="/SMautomation/.project"/>
+    </selectedElements>
+</jardesc>
