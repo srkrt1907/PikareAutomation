@@ -1,0 +1,3 @@
+[[ChromeDriver: chrome on XP (f8ae76eb7e424961c723149ae6ef061c)] -> xpath: //*[@id='X6']]
+[[ChromeDriver: chrome on XP (cae7c726fd1f28bc97de619619710842)] -> xpath: //*[@id='X6']]
+ This is new content This is new content

@@ -1,0 +1,1 @@
+[[ChromeDriver: chrome on XP (c8c81d0a1b04d6f7957f397973398756)] -> xpath: //*[@id='X6']]
